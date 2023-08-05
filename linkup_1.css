@@ -1,0 +1,49 @@
+.main{
+    margin-left: 350px;
+}
+.bg-con{
+    padding-left:30px;
+    padding-right:30px ;
+    padding-top: 10px;
+    background-color: #e6e6e6;
+    background-size: auto;
+    height:390vh;
+    width:50vw;
+    margin: left 500px;
+}
+a[href]:hover{
+    color:blue;
+}
+
+.span{
+    font-size:20px;
+}
+
+
+a[href]{
+    color:rgb(63, 28, 204);
+    font-size:15px;
+    padding-top:5px;
+    padding-left:10px;
+}
+
+
+#con{
+    background-color: white;
+    height: 390vh;
+    padding: 20px;
+    width: 700px;
+}
+
+.box{
+    background-color: #e6e6e6;
+    padding-top: 20px;
+    padding-bottom:20px ;
+}
+.end{
+    background-color:  #b3b3b3;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    height:60px;
+    font-family: "roboto";
+}

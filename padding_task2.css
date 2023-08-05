@@ -1,0 +1,25 @@
+.main{
+	height: 200px;
+	width: 700px;
+}
+.a{
+	background: yellow;
+	border: 50px solid yellow;
+}
+.b{
+	background: orangered;
+	border: 50px solid orangered;
+}
+.c{
+	background: pink;
+	border: 50px solid pink;
+}
+.d{
+	background: skyblue;
+	border: 50px solid skyblue;
+}
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}

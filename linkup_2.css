@@ -1,0 +1,13 @@
+.main{
+    margin-left: 350px;
+}
+.bg-con{
+    padding-left:30px;
+    padding-right:30px ;
+    padding-top: 10px;
+    background-color: #e6e6e6;
+    background-size: auto;
+    height:390vh;
+    width:50vw;
+    margin: left 500px;
+}

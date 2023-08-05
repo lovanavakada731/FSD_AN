@@ -1,0 +1,57 @@
+p{
+	font-family: cursive;
+	color: orangered;
+	font-size: 30px;
+}
+h3{
+	font-family: cursive;
+	color: black;
+	font-size: 30px;
+	background-color: darkseagreen;
+}
+span{
+	font-family: cursive;
+	color: greenyellow;
+	font-size: 30px;
+}
+div{
+	height: 300px;
+	width: 300px;
+	background-color: darkorange;
+}
+h2{
+	color: blue;
+}
+*{
+	font-family: cursive;
+	margin: 0;
+	padding: 0;
+}
+input[type]{
+	color: darkgreen;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="number"]{
+	color: red;
+}
+a[href]{
+	color: darkorange;
+}
+img[src]{
+	border: darkblue;
+	height: 400px;
+	width: 400px;
+}
+a:hover{
+	color: blue;
+}
+a:visited{
+	color: orangered;
+}
+div:hover{
+	color: blue;
+	width: 400px;
+	height: 400px;
+}

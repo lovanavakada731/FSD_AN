@@ -1,0 +1,13 @@
+/*body{
+	background-image: url('image.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+div{
+	height: 300px;
+	width: 500px;
+	background-image: url('image.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: dashed darkblue;
+}
